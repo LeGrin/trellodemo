@@ -4,5 +4,5 @@ module.exports = {
      * После @ указываются данные о бд: имя и адрес.
      * Ссылка генерируется в MLAB.
      */
-    url: 'mongodb://68.183.76.12:27017/test1'
+    url: 'mongodb://localhost:27017/test1'
 };
